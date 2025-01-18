@@ -1,0 +1,1 @@
+{"name":"John Doe","age":30,"address":{"street":"123 Main St","city":"New York","zipcode":"10001"},"phoneNumbers":[{"type":"home","number":"212-555-1234"},{"type":"work","number":"646-555-5678"}],"isActive":true,"tags":["developer","nodejs","golang"],"company":null}
